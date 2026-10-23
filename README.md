@@ -75,8 +75,6 @@ Operating System Simulation Logic
 Results Displayed in the Interface
 ```
 
-*Add your actual architecture diagram here if available.*
-
 ## 6. ▶️ How to Run Locally
 
 🔹 **Step 1: Install Prerequisites**
