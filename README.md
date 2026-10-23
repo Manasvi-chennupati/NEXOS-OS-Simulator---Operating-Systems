@@ -123,8 +123,6 @@ Open the local URL displayed in your terminal, usually:
 
 ## 8. 📸 Screenshots
 
-## 📸 NEXOS Screenshots
-
 ### 🏠 Home Page
 ![NEXOS Home Page](screenshots/home.png)
 
@@ -179,8 +177,6 @@ Potential areas to document include:
 - **Responsive Design:** Making the interface usable across different screen sizes.
 - **Build Configuration:** Resolving dependency or production-build issues.
 - **Deployment:** Configuring Vercel to build and publish the application from GitHub.
-
-*Update this section with the actual problems you encountered and the solutions you implemented.*
 
 ---
 
