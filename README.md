@@ -123,21 +123,28 @@ Open the local URL displayed in your terminal, usually:
 
 ## 8. 📸 Screenshots
 
-Add screenshots of your actual NEXOS application below to demonstrate its interface and features.
+## 📸 NEXOS Screenshots
 
-**🌐 Home Page**
+### 🏠 Home Page
+![NEXOS Home Page](screenshots/home.png)
 
-`![NEXOS Home Page](screenshots/home.png)`
+### ⚙️ CPU Scheduling
+![CPU Scheduling](screenshots/cpu-scheduling.png)
 
-**💻 Simulator Interface**
+### 🧠 Memory Allocation
+![Memory Allocation](screenshots/memory-allocation.png)
 
-`![NEXOS Simulator](screenshots/simulator.png)`
+### 🔒 Banker's Algorithm
+![Banker's Algorithm](screenshots/banker's-algorithm.png)
 
-**📊 Simulation Results**
+### 💽 Disk Scheduling
+![Disk Scheduling](screenshots/disk-scheduling.png)
 
-`![NEXOS Results](screenshots/results.png)`
+### 📂 File System
+![File System](screenshots/file-system.png)
 
-*Replace these example image paths with the actual screenshot filenames in your repository.*
+### 📄 Page Replacement
+![Page Replacement](screenshots/page-replacement.png)
 
 ## 9. 🎨 User Interface
 
